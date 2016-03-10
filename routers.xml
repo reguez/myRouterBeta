@@ -16,4 +16,12 @@
     <DownStream>0</DownStream>
     <UpStream>0</UpStream>
   </Router>
+    <Router>
+    <AdslState>---</AdslState>
+    <Ip>hmhm</Ip>
+    <Modulation>---</Modulation>
+    <Status>---</Status>
+    <DownStream>0</DownStream>
+    <UpStream>0</UpStream>
+  </Router>
 </ArrayOfRouter>
