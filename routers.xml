@@ -10,15 +10,7 @@
   </Router>
   <Router>
     <AdslState>---</AdslState>
-    <Ip>sdfsdf</Ip>
-    <Modulation>---</Modulation>
-    <Status>---</Status>
-    <DownStream>0</DownStream>
-    <UpStream>0</UpStream>
-  </Router>
-  <Router>
-    <AdslState>---</AdslState>
-    <Ip>oussamareguez</Ip>
+    <Ip>hmhm</Ip>
     <Modulation>---</Modulation>
     <Status>---</Status>
     <DownStream>0</DownStream>
