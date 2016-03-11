@@ -1,27 +1,42 @@
 <?xml version="1.0"?>
 <ArrayOfRouter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Router>
-    <AdslState>---</AdslState>
-    <Ip>sdfs</Ip>
-    <Modulation>---</Modulation>
-    <Status>---</Status>
-    <DownStream>0</DownStream>
-    <UpStream>0</UpStream>
+    <BrandName>
+      sumsung
+    </BrandName>
+    <Model>
+      1250
+    </Model>
   </Router>
   <Router>
-    <AdslState>---</AdslState>
-    <Ip>hmhm</Ip>
-    <Modulation>---</Modulation>
-    <Status>---</Status>
-    <DownStream>0</DownStream>
-    <UpStream>0</UpStream>
+    <BrandName>
+      sagem
+    </BrandName>
+    <Model>
+      kb25
+    </Model>
   </Router>
-    <Router>
-    <AdslState>---</AdslState>
-    <Ip>hmhm</Ip>
-    <Modulation>---</Modulation>
-    <Status>---</Status>
-    <DownStream>0</DownStream>
-    <UpStream>0</UpStream>
+   <BrandName>
+      tpLink
+    </BrandName>
+    <Model>
+      1250
+    </Model>
+  </Router
+   </Router>
+   <BrandName>
+      asus
+    </BrandName>
+    <Model>
+      asphalt
+    </Model>
+  </Router>
+   </Router>
+   <BrandName>
+      cnet
+    </BrandName>
+    <Model>
+      1440
+    </Model>
   </Router>
 </ArrayOfRouter>
