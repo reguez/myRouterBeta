@@ -7,6 +7,12 @@
   <Ip>192.168.1.5</Ip>
   <Modulation>lali</Modulation>
   <Authentication>Header</Authentication>
+  <Model>
+  Router
+  </Model>
+  <BrandName>
+  ct
+  </BrandName>
   <Requests>
    <Request>
       <Type>GET</Type>
