@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <ArrayOfRouter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Router>
-    <BrandName>sumsung</BrandName>
-	 <Model>1250</Model>
-  </Router>
+<BrandName>sumsung</BrandName>
+<Model>1250</Model>
+</Router>
    <Router>
     <BrandName>
       tpLink
