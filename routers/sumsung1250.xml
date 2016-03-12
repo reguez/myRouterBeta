@@ -2,7 +2,7 @@
 <Router xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <DownStream>0</DownStream>
   <UpStream>1545</UpStream>
-  <Username>root</Username>
+  <Username>roote</Username>
   <Password>ctAdmin</Password>
   <Ip>192.168.1.5</Ip>
   <Modulation>lali</Modulation>
