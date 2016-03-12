@@ -8,6 +8,7 @@
       1250
     </Model>
   </Router>
+  
   <Router>
     <BrandName>
       sagem
@@ -16,6 +17,8 @@
       kb25
     </Model>
   </Router>
+  
+  <Router>
    <BrandName>
       tpLink
     </BrandName>
@@ -23,7 +26,8 @@
       1250
     </Model>
   </Router
-   </Router>
+  
+   <Router>
    <BrandName>
       asus
     </BrandName>
@@ -31,7 +35,8 @@
       asphalt
     </Model>
   </Router>
-   </Router>
+  
+   <Router>
    <BrandName>
       cnet
     </BrandName>
