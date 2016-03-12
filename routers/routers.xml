@@ -8,36 +8,36 @@
       1250
     </Model>
   </Router>
-  <Router>
+   <Router>
     <BrandName>
-      sagem
-    </BrandName>
-    <Model>
-      kb25
-    </Model>
-  </Router>
-  <Router>
-   <BrandName>
       tpLink
     </BrandName>
     <Model>
-      1250
-    </Model>
-  </Router
-   <Router>
-   <BrandName>
-      asus
-    </BrandName>
-    <Model>
-      asphalt
+      kb108
     </Model>
   </Router>
    <Router>
-   <BrandName>
-      cnet
+    <BrandName>
+      asus
     </BrandName>
     <Model>
-      1440
+      ins178
+    </Model>
+  </Router>
+   <Router>
+    <BrandName>
+      Sagem
+    </BrandName>
+    <Model>
+      5280
+    </Model>
+  </Router>
+   <Router>
+    <BrandName>
+      huwei
+    </BrandName>
+    <Model>
+      1025
     </Model>
   </Router>
 </ArrayOfRouter>
