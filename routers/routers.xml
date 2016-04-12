@@ -1,39 +1,11 @@
 <?xml version="1.0"?>
 <ArrayOfRouter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Router>
-<BrandName>sumsung</BrandName>
-<Model>1250</Model>
+<BrandName>comtrend</BrandName>
+<Model>ct-5367</Model>
 </Router>
-   <Router>
-    <BrandName>
-      tpLink
-    </BrandName>
-    <Model>
-      kb108
-    </Model>
-  </Router>
-   <Router>
-    <BrandName>
-      asus
-    </BrandName>
-    <Model>
-      ins178
-    </Model>
-  </Router>
-   <Router>
-    <BrandName>
-      Sagem
-    </BrandName>
-    <Model>
-      5280
-    </Model>
-  </Router>
-   <Router>
-    <BrandName>
-      huwei
-    </BrandName>
-    <Model>
-      1025
-    </Model>
-  </Router>
+ <Router>
+<BrandName>comtrend</BrandName>
+<Model>ct-5071t</Model>
+</Router>
 </ArrayOfRouter>
