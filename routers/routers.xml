@@ -8,4 +8,8 @@
 <BrandName>comtrend</BrandName>
 <Model>ct-5071t</Model>
 </Router>
+<Router>
+<BrandName>comtrend</BrandName>
+<Model>ar-5310</Model>
+</Router>
 </ArrayOfRouter>
