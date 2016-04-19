@@ -12,4 +12,8 @@
 <BrandName>comtrend</BrandName>
 <Model>ar-5310</Model>
 </Router>
+<Router>
+<BrandName>huawei</BrandName>
+<Model>hg532e</Model>
+</Router>
 </ArrayOfRouter>
